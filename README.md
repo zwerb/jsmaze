@@ -1,6 +1,11 @@
 # JSMAZE
 A JS Maze Solver
 
+## Quick View
+```
+https://zwerb.github.io/jsmaze/
+```
+
 ## Setup
 ```
 git clone https://github.com/zwerb/jsmaze.git
